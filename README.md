@@ -1108,7 +1108,7 @@ This project provides a comprehensive SQL-based analysis of AtliQ sales, pricing
 For queries, collaboration opportunities, or feedback, feel free to reach out:
 
 - 📧 [**Email**](anandcinenkanolu@gmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/Anand-Cinenkanolu/)
 - 🗂️ [**Portfolio**](https://codebasics.io/portfolio/Anand-Cinenkanolu)
 
 💼 Always open to feedback, collaboration, or job opportunities in data analytics!
